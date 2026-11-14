@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Sapien is an automated Knowledge Management platform family. It covers article authoring (Atelier), trusted publication lifecycle control (Atlas), content discovery and curation (Falcon), agentic quality improvement (Merlin), and reader-friendly rendering (Prism).
+Sapien is an automated Knowledge Management ecosystem. It covers multi-platform authoring (Atelier), trusted publication lifecycle control (Atlas), content discovery and curation (Falcon), agentic quality improvement (Merlin) and reader-friendly rendering (Prism).
 
 Sapien has 5 sub-projects:
 
@@ -15,5 +15,3 @@ Sapien has 5 sub-projects:
 | [Prism](./Prism)     | Render Markdown on GitHub into HTML pages      |
 
 Tech stack: ASP.NET, SQL Server, React, Azure.
-
-## 2.
